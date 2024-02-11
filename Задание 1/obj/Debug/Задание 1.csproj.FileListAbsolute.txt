@@ -1,0 +1,7 @@
+D:\Основы наследования\Задание 1\bin\Debug\Задание 1.exe.config
+D:\Основы наследования\Задание 1\bin\Debug\Задание 1.exe
+D:\Основы наследования\Задание 1\bin\Debug\Задание 1.pdb
+D:\Основы наследования\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+D:\Основы наследования\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+D:\Основы наследования\Задание 1\obj\Debug\Задание 1.exe
+D:\Основы наследования\Задание 1\obj\Debug\Задание 1.pdb
